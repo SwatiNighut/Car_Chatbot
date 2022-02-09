@@ -3,9 +3,13 @@
 AI chatbot
 
 Developed  AI chatbot using Rasa.
+
+
 This chatbot helps the customer to select the four-wheeler car as per their requirement.
 It is a small project so; selected models of Maruti Suzuki brand are taken.
 But can be upgrade for more models and many more brands.
+
+
 Chatbot will ask certain questions like car type, fuel type to understand the requirement of customer.
 After that Chabot provide information like type of variants of particular model, Ex-showroom price, on road price, EMI.
 When customer finalise the car, Chabot provides brochure of the car, helps to locate nearest showroom, book appointment for test-drive then give information for price and respective EMI.
@@ -20,5 +24,7 @@ MySQL is used to store the data of customer.
 Finally the Chatbot is deployed on telegram app.
 
 
+
+[AI chatbot info.docx](https://github.com/SwatiNighut/Car_Chatbot/files/8031423/AI.chatbot.info.docx)
 
 
